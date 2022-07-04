@@ -52,8 +52,8 @@
       ],
       "physics": true,
       "start_url": "https://alisaad673.github.io/zodiacs/"
-    }
-    ,{
+    },
+    {
 	"position": [
 		0,
 		2,
@@ -66,6 +66,6 @@
 		1
 	],
 	"start_url": "hhttps://github.com/TempleDAO/webaverse-weapon-test"
-  }
+    }
   ]
 }
