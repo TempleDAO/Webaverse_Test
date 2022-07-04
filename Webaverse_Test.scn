@@ -53,5 +53,19 @@
       "physics": true,
       "start_url": "https://alisaad673.github.io/zodiacs/"
     }
+    ,{
+	"position": [
+		0,
+		2,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"start_url": "https://webaverse.github.io/pistol/"
+  }
   ]
 }
